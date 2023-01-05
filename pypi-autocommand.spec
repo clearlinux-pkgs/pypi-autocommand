@@ -4,7 +4,7 @@
 #
 Name     : pypi-autocommand
 Version  : 2.2.2
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/5b/18/774bddb96bc0dc0a2b8ac2d2a0e686639744378883da0fc3b96a54192d7a/autocommand-2.2.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5b/18/774bddb96bc0dc0a2b8ac2d2a0e686639744378883da0fc3b96a54192d7a/autocommand-2.2.2.tar.gz
 Summary  : A library to create a command-line program from a function
